@@ -1,4 +1,4 @@
-name: Build and push Oracle JDK Docker image
+name: Build and push Maven with JDK Docker image
 
 on:
   push:
