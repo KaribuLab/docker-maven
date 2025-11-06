@@ -1,0 +1,12 @@
+*.bin
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+*.tar.lzma
+*.tar.lz
+*.tar.Z
+*.tar.bz
+*.tar.bz2
+*.tar.gz
+*.tar.lzma
+*.tar.lz
